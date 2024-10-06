@@ -19,5 +19,4 @@ We would appreciate it if you would consider citing our work when using our code
   year={2023},
   organization={IEEE}
 }
-}
 ```
